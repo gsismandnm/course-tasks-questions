@@ -68,6 +68,8 @@ javascript odev teslimleri
 
 - Sezer - https://github.com/sezerbayram/js_homework_001.git    
 
+- Gökmen - https://github.com/gsismandnm/04_Js_Home_Work_01
+
 
 
 
